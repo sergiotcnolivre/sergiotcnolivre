@@ -1,7 +1,6 @@
 
 
-- 🔭 I’m currently working on Wordpress
-- 🌱 I’m currently learning React
+- 🔭 Full-Stack Developer 
 -->
  <div>
   <a href="https://www.linkedin.com/in/sergio-campos-471301132/">
