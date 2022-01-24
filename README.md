@@ -3,7 +3,7 @@
 - 🔭 Full-Stack Developer 
 -->
  <div>
-  <a href="https://www.linkedin.com/in/sergio-campos-471301132/">
+  <a href="https://www.linkedin.com/in/sergio-campos-dos-santos-junior-471301132/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiotcnolivre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 </div>
