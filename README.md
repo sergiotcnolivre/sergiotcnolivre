@@ -1,7 +1,13 @@
 
 
-- 🔭 Full-Stack Developer 
--->
+I'm majoring in Computer Engineering at UNA.
+
+I've been working as Full-Stack developer since 2020 and currently I'm Full-Stack Engineer at Inc. Digital
+
+I am a self-taught developer passionate about technology.
+I love agile methodologies, the GNU project and scout movement.
+I am always willing to learn more and update myself.
+
  <div>
   <a href="https://www.linkedin.com/in/sergio-campos-dos-santos-junior-471301132/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiotcnolivre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
