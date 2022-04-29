@@ -1,3 +1,4 @@
+## Hi, I'm Sérgio Campos :brazil:
 
 
 I'm majoring in Computer Engineering at UNA.
