@@ -1,9 +1,7 @@
 ## Hi, I'm Sérgio Campos :brazil:
 
 
-I'm majoring in Computer Engineering at UNA.
-
-I've been working as Full-Stack developer since 2020 and currently I'm Full-Stack Engineer at Inc. Digital
+I've been working as Full-Stack developer since 2017.
 
 I am a self-taught developer passionate about technology.
 I love agile methodologies, the GNU project and scout movement.
@@ -21,6 +19,7 @@ I am always willing to learn more and update myself.
   <img align="center" alt="Sergio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Sergio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain-wordmark.svg">
   <img align="center" alt="Sergio-jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
+  <img align="center" alt="Sergio-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Sergio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Sergio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Sergio-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
